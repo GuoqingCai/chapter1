@@ -10,7 +10,9 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 
 /**
- * Created by Administrator on 2016/9/23.
+ * Class description
+ * @author caigq
+ * @version 1.0, 2016/9/23
  */
 
 @WebServlet("/hello")
